@@ -10,3 +10,4 @@ wheels/
 .venv
 
 cookie.txt
+.idea/
